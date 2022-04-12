@@ -39,7 +39,7 @@ header li {
 }
 
 header li a {
-  padding: 1.6rem 3rem;
+  padding: 1.55rem 3rem;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   color: #fff;
@@ -47,7 +47,7 @@ header li a {
 }
 
 header li a:hover {
-  background-color: #ffffffb7;
+  background-color: var(--red);
 }
 
 header img {
