@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":";;;;;AACAA,KAAK,CAAC,UAAD,CAAL,C","sources":["webpack://modelo/./src/index.js"],"sourcesContent":["\nalert('Funfando');"],"names":["alert"],"sourceRoot":""}
